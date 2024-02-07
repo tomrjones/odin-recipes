@@ -1,0 +1,30 @@
+
+
+#title {
+    color: white;
+    background-color: red;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.heading {
+    font-size: 26px;
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.list {
+    font-weight: 700;
+}
+
+.description {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    background-color: yellow;
+    text-align: center;
+}
+
+.image {
+    text-align: center;
+}
