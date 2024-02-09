@@ -1,17 +1,31 @@
+.body {
+    background-color: aquamarine;
+    width: 600px;
+    margin-bottom: 20px;
+    margin: 0px auto;
 
+}
+
+.button {
+    font-size: 40px;
+}
 
 #title {
     color: white;
-    background-color: red;
+    background-color: black;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
+    width: 400px;
+    border: 5px solid black;
+    margin: 10px auto;
 }
 
 .heading {
     font-size: 26px;
-    color: blue;
+    color: black;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
+    margin-top: 35px;
 }
 
 .list {
@@ -21,8 +35,12 @@
 .description {
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
-    background-color: yellow;
+    background-color: white;
+    padding: 20px;
+    width: 450px;
     text-align: center;
+    margin: 20px auto;
+    border: 6px dashed black;
 }
 
 .image {
